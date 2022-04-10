@@ -1,4 +1,10 @@
+<head>
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+
 # Avdan
+
+Зайдите на наш Discord сервер! [Нажми чтобы вступить](https://discord.gg/Q3DycQw6ud)
 
 ## 🎁 Категория: Развлечения (`avd.fun`)
 
